@@ -1,0 +1,24 @@
+{
+  "name": "massdm",
+  "version": "1.0.0",
+  "description": "Message ",
+  "homepage": "https://github.com/ItzSly9/Discor-Mass-DM-Tool#readme",
+  "bugs": {
+    "url": "https://github.com/ItzSly9/Discor-Mass-DM-Tool/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItzSly9/Discor-Mass-DM-Tool.git"
+  },
+  "license": "ISC",
+  "author": "ItzSly",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^12.5.3"
+  }
+}
